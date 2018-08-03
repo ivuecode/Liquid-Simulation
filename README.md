@@ -1,7 +1,7 @@
 # Liquid Effect :ocean:
 An implemntation of liquid simulation effect in Unity.  
 
-This project uses blur shaders along with 2D rigidbody sprites to create the illusion of a liquid body. Render textures and material instancing are methods also used to achieve inexpensive fluid motion look.
+This project uses blur shaders along with 2D rigidbody sprites to create the illusion of a liquid body. Render textures and material instancing are methods also used to achieve this inexpensive fluid motion look.
 
 ## Preview :eyes:
 ![gif demo](https://i.imgur.com/4WCtDzh.gif)  
