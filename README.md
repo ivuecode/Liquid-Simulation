@@ -22,4 +22,5 @@ If you believe something needs to be immediately fixed please open an issue and 
 
 [VueCode YouTube](https://www.youtube.com/channel/UCtP-1zQ2g_jpgYvvBqkWltA)  
 [VueCode Twitter](https://twitter.com/VueCode/)  
+[VueCode Discord](https://discord.gg/qWpEtR3)
 
